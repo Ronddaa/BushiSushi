@@ -1,0 +1,17 @@
+.carsList{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.carChoise{
+    border-radius: 10px;
+    border: solid 1px #fff;
+}
+.carChoise a{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 5vw;
+}

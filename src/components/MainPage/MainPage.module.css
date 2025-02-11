@@ -1,0 +1,16 @@
+.divisionList{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+.division{
+    padding: 20px;
+    border: 1px solid #303030;
+    border-radius: 10px;
+}
+.division a{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-size: 5vw;
+}
